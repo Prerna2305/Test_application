@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Test_application</string>
+    <string name="load_movies">Load Data</string>
+    <string name="empty">empty</string>
+</resources>
